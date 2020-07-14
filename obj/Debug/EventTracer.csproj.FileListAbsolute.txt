@@ -1,0 +1,9 @@
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\obj\Debug\EventTracer.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\obj\Debug\EventTracer.Form1.resources
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\obj\Debug\EventTracer.Properties.Resources.resources
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\obj\Debug\EventTracer.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\bin\Debug\EventTracer.exe.config
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\bin\Debug\EventTracer.exe
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\bin\Debug\EventTracer.pdb
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\obj\Debug\EventTracer.exe
+C:\Users\mustafa\source\repos\EventTracer\EventTracer\obj\Debug\EventTracer.pdb
